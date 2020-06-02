@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71a085a5-0b74-4a78-97e4-468284ef3603" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c4kehVZiwYCosV18Uffn3JTBBY" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\python\pretrain_bert_emotional_analysis" />
+      <recent name="D:\workspace\python\pretrain_bert_emotional_analysis\models" />
+      <recent name="D:\workspace\python\pretrain_bert_emotional_analysis\modelParams" />
+      <recent name="D:\workspace\python\pretrain_bert_emotional_analysis\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run_emotional_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pretrain_bert_emotional_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_emotional_analysis.py" />
+      <option name="PARAMETERS" value="--data_dir=data/imdb --task_name=imdb --vocab_file=modelParams/uncased_L-12_H-768_A-12/vocab.txt --bert_config_file=modelParams/uncased_L-12_H-768_A-12/bert_config.json --output_dir=output/ --do_train=True --init_checkpoint=modelParams/uncased_L-12_H-768_A-12/bert_model.ckpt --max_seq_length=128 --train_batch_size=16 --learning_rate=5e-5 --num_train_epochs=2 --cls_model_name=fc" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_emotional_analysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71a085a5-0b74-4a78-97e4-468284ef3603" name="Default" comment="" />
+      <created>1566611719145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566611719145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590396508488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="416" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590396508488" />
+    <state x="652" y="354" key="#xdebugger.evaluate" timestamp="1590397084270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="354" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1590397084270" />
+    <state x="742" y="277" key="FileChooserDialogImpl" timestamp="1590386563473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590386563473" />
+    <state width="1900" height="329" key="GridCell.Tab.0.bottom" timestamp="1590408479724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590408479724" />
+    <state width="1900" height="329" key="GridCell.Tab.0.center" timestamp="1590408479724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="329" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590408479724" />
+    <state width="1900" height="329" key="GridCell.Tab.0.left" timestamp="1590408479724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="329" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590408479724" />
+    <state width="1900" height="329" key="GridCell.Tab.0.right" timestamp="1590408479724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="329" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590408479724" />
+    <state width="1900" height="329" key="GridCell.Tab.1.bottom" timestamp="1590408479724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="329" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590408479724" />
+    <state width="1900" height="329" key="GridCell.Tab.1.center" timestamp="1590408479724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="329" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590408479724" />
+    <state width="1900" height="329" key="GridCell.Tab.1.left" timestamp="1590408479724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="329" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590408479724" />
+    <state width="1900" height="329" key="GridCell.Tab.1.right" timestamp="1590408479724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="329" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590408479724" />
+    <state x="462" y="163" key="SettingsEditor" timestamp="1590386565139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="462" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590386565139" />
+    <state width="966" height="526" key="XDebugger.FullValuePopup" timestamp="1590403676428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="966" height="526" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1590403676428" />
+    <state x="506" y="257" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589807641396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="506" y="257" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1589807641396" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bert/modeling.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_emotional_analysis.py</url>
+          <line>576</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_emotional_analysis.py</url>
+          <line>558</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_emotional_analysis.py</url>
+          <line>508</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_emotional_analysis.py</url>
+          <line>841</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_emotional_analysis.py</url>
+          <line>835</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_emotional_analysis.py</url>
+          <line>802</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bert/modeling.py</url>
+          <line>483</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bert/modeling.py</url>
+          <line>814</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="attention_mask" language="Python" />
+        <watch expression="prev_output" language="Python" />
+        <watch expression="all_layer_outputs" language="Python" />
+        <watch expression="attention_heads" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
